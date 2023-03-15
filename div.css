@@ -1,0 +1,17 @@
+.v-line {
+    border-left: 10px solid rgb(219, 30, 30);
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+}
+
+.title {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: blue;
+  }
+
+
+
+
